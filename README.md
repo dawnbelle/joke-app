@@ -1,2 +1,2 @@
 # sample-web
-Sample app from git course
+Sample joke app from git course
