@@ -1,2 +1,2 @@
-# sample-joke-web
-Sample joke app
+# Joke app
+Python joke generator
